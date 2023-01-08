@@ -1,4 +1,7 @@
 Описание процесса прошивки плат на чипе ESP32, без предустановленной прошивки с Wi-Fi.
+Шьются только такие платы :
+![-faexWlGYQvQAMMGPrBTX47xR4s_4KOBVevfOR4hrf8cN7gV5DrtZznCczra9zZwGRFd37bEEJ3i5X1nZRhv2hI](https://user-images.githubusercontent.com/65130421/211198486-8d95a485-73d6-4e51-b198-3afe78526cc4.jpg)
+
 
 Подключаем к любому USB-UART конвертеру по этой схеме:
 
